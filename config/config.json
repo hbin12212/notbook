@@ -1,11 +1,17 @@
 {
-  "homePageID": "ec75ebe24e4d423b9ee28195eecdef90",
-  "site": "Notbook",
-  "description": "Notion + WebBook = Notbook",
-  "renderMode": "PRE_ISR",
-  "menus": [],
-  "profile": {
-    "name": "이정환",
-    "nickname": "winterlood"
-  }
+    "homePageID": "1e0a51dd82a6433abe12aab19cef1a51",
+    "site": "웹 프론트엔드를 위한 자바스크립트 첫 걸음",
+    "description": "웹 프론트엔드를 위한 자바스크립트 첫 걸음 강의 자료",
+    "renderMode": "PRE_ISR",
+    "menus": [
+        {
+            "type": "EXTERNAL",
+            "title": "강사 소개",
+            "url": "https://hyobb.com"
+        }
+    ],
+    "profile": {
+        "name": "효빈",
+        "nickname": "hyobin"
+    }
 }

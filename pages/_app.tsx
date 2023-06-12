@@ -46,7 +46,7 @@ export default function MyApp(props: MyAppProps) {
                 <meta name="viewport" content="width=device-width" />
                 <meta
                     name="keywords"
-                    content="자바스크립트, 자바스크립트 강의, hbin12212, hyobb, hyobin, 효빈, 인프런 자바스크립트, 웹 프론트엔드를 위한 자바스크립트 첫 걸음, 자바스크립트 입문, 자바스크립트 입문 강의"
+                    content="자바스크립트, 효빈 자바스크립트, hyobin, hyobin 자바스크립트, 자바스크립트 가이드, 자바스크립트 강의, hbin12212, hyobb, hyobin, 효빈, 인프런 자바스크립트, 웹 프론트엔드를 위한 자바스크립트 첫 걸음, 자바스크립트 입문, 자바스크립트 입문 강의"
                 />
                 <meta name="description" content="웹 프론트엔드를 위한 자바스크립트 첫 걸음 강의 자료" />
             </Head>
